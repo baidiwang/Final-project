@@ -92,3 +92,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.video {
+    max-width: 650px;
+    margin: 0 auto 20px auto;
+    padding: 0 10px;
+}
